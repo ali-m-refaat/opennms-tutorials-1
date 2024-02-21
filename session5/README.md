@@ -2,6 +2,10 @@
 
 [Main Menu](../workup/README.md) | [Session 5](../session5/README.md)
 
+[performance-management-Introduction.pdf](../session4/minimal-minion-activemq/performance-management-Introduction.pdf) Slides for this session.
+
+[Session 5 Video](https://youtu.be/f67ol8LD77s)
+
 ## Exercise 5.1
 
 We have an SNMP enabled device which provides the system load as a metric to indicate the system CPU and I/O utilization.
